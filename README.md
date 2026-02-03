@@ -10,11 +10,11 @@
 ---
 
 ## Repository Structure
-- `notebooks/Assignment_2_Sampling.ipynb` — **Colab notebook**
-- `data/Creditcard_data.csv` — dataset
+- `Assignment_2_Sampling.ipynb` — **Colab notebook**
+- `Creditcard_data.csv` — dataset
 - `src/` — python modules (sampling + models + runner)
 - `results/` — outputs (table + graphs)
-- `report/DISCUSSION.md` — short findings
+- `DISCUSSION.md` — short findings
 - `requirements.txt` — dependencies
 
 ---
@@ -76,13 +76,16 @@ We evaluate using **Accuracy** on the same fixed test set.
 ## Result Graphs
 
 ### Heatmap — Accuracy matrix
-![Accuracy Heatmap](results/figures/accuracy_heatmap.png)
+<img width="1280" height="960" alt="accuracy_heatmap" src="https://github.com/user-attachments/assets/e628a9b7-7a70-4f44-b937-304836af4bd4" />
+
 
 ### Best accuracy per model (across sampling)
-![Best by Model](results/figures/best_by_model.png)
+<img width="1280" height="960" alt="best_by_model" src="https://github.com/user-attachments/assets/c4697ba2-e950-4023-a8a0-5bc3e4acfd6f" />
+
 
 ### Best accuracy per sampling technique (across models)
-![Best by Sampling](results/figures/best_by_sampling.png)
+<img width="1280" height="960" alt="best_by_sampling" src="https://github.com/user-attachments/assets/7ed539cf-632a-4d8d-b1d9-111b462b4895" />
+
 
 ---
 
