@@ -8,8 +8,8 @@
 ## Repository Structure
 - `Assignment_2_Sampling.ipynb` — **Colab notebook**
 - `Creditcard_data.csv` — dataset
-- `src/` — python modules (sampling + models + runner)
-- `results/` — outputs (table + graphs)
+- `src` — python modules (sampling + models + runner)
+- `results` — outputs (table + graphs)
 - `DISCUSSION.md` — short findings
 - `requirements.txt` — dependencies
 
