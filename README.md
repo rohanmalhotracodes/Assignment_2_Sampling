@@ -79,5 +79,4 @@ This will generate:
 - Dataset balancing is done using **SMOTE** (k_neighbors=3) to obtain a 50:50 class distribution before sampling.
 - Models are trained on sampled subsets of the balanced training split and evaluated on a **fixed** held-out test split.
 - All random seeds are fixed (`seed=42`) for reproducibility.
-
-For a short write-up, see `report/DISCUSSION.md`.
+  
