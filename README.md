@@ -1,11 +1,7 @@
 # Assignment 2 — Sampling
 
 **Name:** Rohan Malhotra  
-**Roll No:** 102303437  
-
-## Submission checklist (as asked)
-✅ Colab notebook uploaded to GitHub: `notebooks/Assignment_2_Sampling.ipynb`  
-✅ Detailed methodology + result table + result graphs in README  
+**Roll No:** 102303437
 
 ---
 
